@@ -1,3 +1,14 @@
 .header {
   background-image: url(../images/the-flatiron-building.png);
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+a {
+  color: white;
+  font-size: 18px;
 }
